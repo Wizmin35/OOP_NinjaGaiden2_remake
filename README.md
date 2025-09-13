@@ -8,6 +8,7 @@ Za izradu projekta korišten je čisti JavaScript, dok je game engine osigurao p
 
 Napomena o autorskim pravima (Copyright Disclaimer):
 Ova igra koristi materijale (likove, priču, grafiku i nazive) koji su zaštićeni autorskim pravima i pripadaju njihovim izvornim autorima i izdavačima. Sadržaji korišteni u ovom projektu nisu moje vlasništvo i ne polažem nikakva prava na njih. Projekt je izrađen isključivo u edukacijske svrhe u sklopu kolegija Objektno orijentirano programiranje (OOP).
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 English
 
